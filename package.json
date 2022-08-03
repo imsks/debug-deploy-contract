@@ -1,0 +1,27 @@
+{
+  "name": "debug-deploy-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsks/debug-deploy-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsks/debug-deploy-contract/issues"
+  },
+  "homepage": "https://github.com/imsks/debug-deploy-contract#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "dotenv": "^16.0.1"
+  }
+}
